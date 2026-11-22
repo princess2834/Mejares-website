@@ -1,4 +1,11 @@
-/* Sweet Bakery */
+/* Sweet Bakery Color Palette
+    cream: #FFF7ED;
+    brown: #6B3F2A;
+    pink: #F4C7C3;
+    green: #9AA98B;
+    ink: #3D2B24;
+    muted: #806D61
+*/
 :root {
     --cream: #FFF7ED;
     --brown: #6B3F2A;
@@ -71,7 +78,7 @@ a {
 .nav-links a {
     font-size: .88rem;
     font-weight: 500;
-    color: var(--brown)
+    color: var(--brown);
     transition: color 0.3s ease;
 }
 
