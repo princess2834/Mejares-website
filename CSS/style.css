@@ -91,7 +91,7 @@ a {
     min-height: 570px;
     display: flex;
     align-items: center;
-    background: linear-gradient(100deg, rgba(255, 247, 237, .97), rgba(255, 240, 232, .78)), url('https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=1800&q=85') center/cover
+    background: linear-gradient(100deg, rgba(255, 247, 237, .85), rgba(255, 240, 232, .60)), url('https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=1800&q=85') center/cover
 }
 
 .hero-content {
